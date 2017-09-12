@@ -1,0 +1,25 @@
+{
+   "original":
+ [
+   {"file": "config.unity3d",
+    "md5": "eb36c74c4c72563ea12713a882a77cfb"},
+   {"file": "framework.unity3d",
+    "md5": "e59e336ef357a66836c986d89343301e"},
+   {"file": "functionsystem.unity3d", 
+     "md5": "d940690e1feca657afd6baedb211be46"}
+],
+"patched":
+[
+  {"file": "patched_config.unity3d",
+    "md5": "4e65b2b6547681c623b3ae69a154cc12"},
+  {"file": "patched_framework.unity3d",
+    "md5": "fa162b80e5779ddc5c8469c2af8abe31"},
+  {"file": "patched_functionsystem.unity3d",
+    "md5": "257b0d7ded0afd5c0d86b8d227f9db4a"}
+],
+"releases":
+[
+  {"md5": ""}
+],
+"version": 133699
+}
