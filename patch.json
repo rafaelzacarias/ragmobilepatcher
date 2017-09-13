@@ -6,20 +6,24 @@
    {"file": "framework.unity3d",
     "md5": "e59e336ef357a66836c986d89343301e"},
    {"file": "functionsystem.unity3d", 
-     "md5": "d940690e1feca657afd6baedb211be46"}
+     "md5": "d940690e1feca657afd6baedb211be46"},
+   {"file": "refactory.unity3d",
+     "md5": "2739b6dfe4c749471c20e7b4fac10fc7"}
 ],
 "patched":
 [
   {"file": "patched_config.unity3d",
-    "md5": "4e65b2b6547681c623b3ae69a154cc12"},
+    "md5": "b36e3d6a5fa7aba8df0873ca134f5bf3"},
   {"file": "patched_framework.unity3d",
     "md5": "fa162b80e5779ddc5c8469c2af8abe31"},
   {"file": "patched_functionsystem.unity3d",
-    "md5": "257b0d7ded0afd5c0d86b8d227f9db4a"}
+    "md5": "257b0d7ded0afd5c0d86b8d227f9db4a"},
+  {"file": "patched_refactory.unity3d",
+    "md5": "5dec816ce39cf7841ccfaaac4ec887d6"}
 ],
 "releases":
 [
-  {"md5": ""}
+  {"md5": "4e65b2b6547681c623b3ae69a154cc12"}
 ],
 "version": 133699
 }
