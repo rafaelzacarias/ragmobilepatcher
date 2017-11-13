@@ -2,18 +2,18 @@
    "original":
  [
    {"file": "config.unity3d",
-    "md5": "6f4dca170461d09f7926d3b1687166c3"},
+    "md5": "068103055197ed7add8db880813454ef"},
    {"file": "framework.unity3d",
-    "md5": "5de5b8446afe7b18889b2974bdf012cc"},
+    "md5": "996c74542813dc326f868e1f7507a670"},
    {"file": "refactory.unity3d",
      "md5": "8ebf098a54eaaaa2a3b2b069239856e2"}
 ],
 "patched":
 [
   {"file": "patched_config.unity3d",
-    "md5": "fbf10dbcb5c0c52e73eee0f364cb9d9e"},
+    "md5": "df6ccd07296601248fb4ddc3dad78d63"},
   {"file": "patched_framework.unity3d",
-    "md5": "e2556d529d28fb6c27c40e6d42a63d3b"},
+    "md5": "bb8ef75242abd0a7dcac59d99a296fde"},
   {"file": "patched_refactory.unity3d",
     "md5": "9f31e741e7376f6824d5bc87fabd025b"}
 ],
@@ -21,5 +21,5 @@
 [
   {"md5": "none"}
 ],
-"version": 143664
+"version": 144020
 }
