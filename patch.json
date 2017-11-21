@@ -1,10 +1,6 @@
 {
   "original": [
     {
-      "file": "config.unity3d",
-      "md5": "dd938dc28eb20f0d911b7680aec396fa"
-    },
-    {
       "file": "framework.unity3d",
       "md5": "2a60d480aaa5c22745fb1d51d8c81a2c"
     },
@@ -70,10 +66,6 @@
     }
   ],
   "patched": [
-    {
-      "file": "files/patched_config.unity3d",
-      "md5": "164232b841767bd2efdb49897d00d95d"
-    },
     {
       "file": "files/patched_framework.unity3d",
       "md5": "e53ee9df633f3e6ceed461bae873ba0b"
