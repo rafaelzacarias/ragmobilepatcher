@@ -75,6 +75,14 @@
       "md5": "164232b841767bd2efdb49897d00d95d"
     },
     {
+      "file": "files/patched_framework.unity3d",
+      "md5": "e53ee9df633f3e6ceed461bae873ba0b"
+    },
+    {
+      "file": "files/patched_refactory.unity3d",
+      "md5": "6de4b2e0b6f590437503cd5606b99367"
+    },
+    {
       "file": "files/patched_config_adventure_chengjiu_maoxian.unity3d",
       "md5": "442a8800dbd203f0197c355935cbb716"
     },
@@ -129,14 +137,6 @@
     {
       "file": "files/patched_config_text_wenben.unity3d",
       "md5": "3b90d7c9d7528d4d83991ea83d84d563"
-    },
-    {
-      "file": "files/patched_framework.unity3d",
-      "md5": "e53ee9df633f3e6ceed461bae873ba0b"
-    },
-    {
-      "file": "files/patched_refactory.unity3d",
-      "md5": "6de4b2e0b6f590437503cd5606b99367"
     }
   ],
   "releases": [
