@@ -1,140 +1,25 @@
 {
-  "original": [
-    {
-      "file": "framework.unity3d",
-      "md5": "2a60d480aaa5c22745fb1d51d8c81a2c"
-    },
-    {
-      "file": "refactory.unity3d",
-      "md5": "347b92e69c9d18099f8c5907d6326bc7"
-    },
-    {
-      "file": "config_adventure_chengjiu_maoxian.unity3d",
-      "md5": "7e66455da81c1b96620bf88c72d4b16c"
-    },
-    {
-      "file": "config_equip_zhuangbei_kapian.unity3d",
-      "md5": "4728d2a770994376e0fae9428da8d2b6"
-    },
-    {
-      "file": "config_event_shijian.unity3d",
-      "md5": "6db53d6f9feb747d5143850e709d5d0d"
-    },
-    {
-      "file": "config_guild_gonghui.unity3d",
-      "md5": "c7606b1644050a004cc7debc0887213d"
-    },
-    {
-      "file": "config_hint_tishizhiyin.unity3d",
-      "md5": "dd45d39cb4aa96bc9a5a80fa57300ab7"
-    },
-    {
-      "file": "config_item_daoju.unity3d",
-      "md5": "0f31e7a81d54dad9606ce2989ed2f9f6"
-    },
-    {
-      "file": "config_map_fuben.unity3d",
-      "md5": "aaef46a887fa9a03392a024d390b88f6"
-    },
-    {
-      "file": "config_npc_mowu.unity3d",
-      "md5": "dc2bc1726535eae8251cff628b42b2cc"
-    },
-    {
-      "file": "config_pay_zhifu.unity3d",
-      "md5": "d810d0f2cfa6654f30656c1f6bfe2388"
-    },
-    {
-      "file": "config_pet_suicong.unity3d",
-      "md5": "adda7eb8833b711453fe72689f0dbd7a"
-    },
-    {
-      "file": "config_property_zhiye_shuxing.unity3d",
-      "md5": "249d4cb8ba0a969e4352eb053cdf75e6"
-    },
-    {
-      "file": "config_resource_ziyuan.unity3d",
-      "md5": "446495f81abcbfea484bb91b1cfbd68d"
-    },
-    {
-      "file": "config_skill_jineng.unity3d",
-      "md5": "c827726043b9d6153454f6a94ea20831"
-    },
-    {
-      "file": "config_text_wenben.unity3d",
-      "md5": "8078f3735d97900fdfa0c0df464c9d42"
-    }
-  ],
-  "patched": [
-    {
-      "file": "files/patched_framework.unity3d",
-      "md5": "e53ee9df633f3e6ceed461bae873ba0b"
-    },
-    {
-      "file": "files/patched_refactory.unity3d",
-      "md5": "6de4b2e0b6f590437503cd5606b99367"
-    },
-    {
-      "file": "files/patched_config_adventure_chengjiu_maoxian.unity3d",
-      "md5": "442a8800dbd203f0197c355935cbb716"
-    },
-    {
-      "file": "files/patched_config_equip_zhuangbei_kapian.unity3d",
-      "md5": "d48a4cffd3eba9c2ce8da4ff0714c0ce"
-    },
-    {
-      "file": "files/patched_config_event_shijian.unity3d",
-      "md5": "2332eb97adcb5f517d7afc6a52455c2f"
-    },
-    {
-      "file": "files/patched_config_guild_gonghui.unity3d",
-      "md5": "800b1e6bbface089266047e407058c16"
-    },
-    {
-      "file": "files/patched_config_hint_tishizhiyin.unity3d",
-      "md5": "2f5447ba869d3ab42aa8d71b9bc9e71e"
-    },
-    {
-      "file": "files/patched_config_item_daoju.unity3d",
-      "md5": "4b2df35f38232ed02fbc4dba11f92863"
-    },
-    {
-      "file": "files/patched_config_map_fuben.unity3d",
-      "md5": "98fb21fc698eb39dcf166ba4c54ebd14"
-    },
-    {
-      "file": "files/patched_config_npc_mowu.unity3d",
-      "md5": "122144eb7c20cb895b868e58adc6c602"
-    },
-    {
-      "file": "files/patched_config_pay_zhifu.unity3d",
-      "md5": "a648d55cc01de3e281d2e8e3516c914f"
-    },
-    {
-      "file": "files/patched_config_pet_suicong.unity3d",
-      "md5": "f2b7266ba948dce199e041624c19b2cb"
-    },
-    {
-      "file": "files/patched_config_property_zhiye_shuxing.unity3d",
-      "md5": "ff9aae7e995107502d7de9143c23f1af"
-    },
-    {
-      "file": "files/patched_config_resource_ziyuan.unity3d",
-      "md5": "f32f8ba3a5b78852c7ba0c48ddc4c53e"
-    },
-    {
-      "file": "files/patched_config_skill_jineng.unity3d",
-      "md5": "ff4e02486e1ef440337d0f655a2ed4e1"
-    },
-    {
-      "file": "files/patched_config_text_wenben.unity3d",
-      "md5": "3b90d7c9d7528d4d83991ea83d84d563"
-    }
-  ],
-  "releases": [
-    {
-      "md5": "none"
-    }
-  ],
-  "version": 145362
+   "original":
+ [
+   {"file": "config.unity3d",
+    "md5": "dd938dc28eb20f0d911b7680aec396fa"},
+   {"file": "framework.unity3d",
+    "md5": "2a60d480aaa5c22745fb1d51d8c81a2c"},
+   {"file": "refactory.unity3d",
+     "md5": "347b92e69c9d18099f8c5907d6326bc7"}
+],
+"patched":
+[
+  {"file": "patched_config.unity3d",
+    "md5": "164232b841767bd2efdb49897d00d95d"},
+  {"file": "patched_framework.unity3d",
+    "md5": "e53ee9df633f3e6ceed461bae873ba0b"},
+  {"file": "patched_refactory.unity3d",
+    "md5": "6de4b2e0b6f590437503cd5606b99367"}
+],
+"releases":
+[
+  {"md5": "none"}
+],
+"version": 145362
 }
