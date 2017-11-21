@@ -1,17 +1,32 @@
-
+import json
 import hashlib
+import os
+import sys
 
-fnamelst = ["files/patched_config.unity3d","files/patched_framework.unity3d", "files/patched_functionsystem.unity3d"]
-new_dict = {}
+filesDir = "files"
 
-for fname in fnamelst:
-    new_dict[fname] = hashlib.md5(open(fname,'rb').read()).hexdigest()
+originalFiles = []
+patchedFiles = []
+
+for filename in os.listdir(filesDir):
+	if ".unity3d" in filename:
+		obj = {}
+		obj["file"] = filename
+		obj["md5"] = hashlib.md5(open(filesDir+"/"+filename,'rb').read()).hexdigest() 
+		if "patched" in filename:
+			patchedFiles.append(obj)
+		else:
+			originalFiles.append(obj)    
+
+patch = {}
+original = {"original":originalFiles}
+patched = {"patched":patchedFiles}
+release = {"releases":[{"md5":"none"}]}
 
 
-for item in new_dict:
-    print item, new_dict[item]
-    
-    
-with open("files.json") as fjson:
-    for line in fjson:
-        print line
+patch.update(original)
+patch.update(patched)
+patch.update(release)
+patch["version"] = int(sys.argv[1])
+
+print json.dumps(patch)    
